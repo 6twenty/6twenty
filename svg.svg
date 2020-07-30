@@ -62,8 +62,8 @@
     <rect x="0" y="0" height="100%" width="100%" fill="blue" />
     
     <g fill="green">
-      <use href="#map" x="650" y="250" height="500" width="1000" />
-      <use href="#map" x="1450" y="250" height="500" width="1000" />
+      <use href="#map" x="650" y="250" height="50%" width="50%" />
+      <use href="#map" x="1450" y="250" height="50%" width="50%" />
 
       <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite" />
     </g>
